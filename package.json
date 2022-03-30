@@ -58,6 +58,7 @@
         "@editorjs/table": "^2.0.1",
         "@editorjs/underline": "^1.0.0",
         "@editorjs/warning": "^1.2.0",
-        "editorjs-inline-tool": "^0.4.0"
+        "editorjs-inline-tool": "^0.4.0",
+        "editorjs-hyperlink": "^1.0.6"
     }
 }
