@@ -47,6 +47,8 @@
         "flag-icons": "^6.2.0",
         "grapesjs": "^0.18.4",
         "grapesjs-blocks-bootstrap4": "^0.2.3",
+        "grapesjs-component-code-editor": "^1.0.20",
+        "grapesjs-parser-postcss": "^0.1.1",
         "grapesjs-plugin-header": "^0.1.54",
         "grapesjs-preset-newsletter": "^0.2.21",
         "grapesjs-preset-webpage": "^0.1.11",
