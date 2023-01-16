@@ -1,6 +1,6 @@
 {
     "name": "murph-project",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "description": "Murph is an open-source CMF built on top of Symfony that helps you to build your own CMS.",
     "repository": {
         "type": "git",
