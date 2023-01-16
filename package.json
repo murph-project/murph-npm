@@ -1,6 +1,6 @@
 {
     "name": "murph-project",
-    "version": "1.8.0",
+    "version": "1.8.1",
     "description": "Murph is an open-source CMF built on top of Symfony that helps you to build your own CMS.",
     "repository": {
         "type": "git",
@@ -46,7 +46,7 @@
         "file-loader": "^6.0.0",
         "flag-icons": "^6.2.0",
         "grapesjs": "^0.20.3",
-        "grapesjs-blocks-bootstrap4": "^0.3.3",
+        "grapesjs-blocks-bootstrap4": "^0.2.3",
         "grapesjs-component-code-editor": "^1.0.20",
         "grapesjs-parser-postcss": "^0.1.1",
         "grapesjs-plugin-header": "^0.1.54",
